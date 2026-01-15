@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { Layout } from "@/Layout/layout.jsx";
-import { getHotelById } from "@/data/hotels.jsx";
+import { Layout } from "@/Layout/Layout.jsx";
+import { getHotelById } from "@/data/Hotels.jsx";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";

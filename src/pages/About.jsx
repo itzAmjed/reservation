@@ -1,4 +1,4 @@
-import { Layout } from "@/Layout/layout.jsx";
+import { Layout } from "@/Layout/Layout.jsx";
 import { Award, Users, Globe, Heart } from "lucide-react";
 
 const About = () => {

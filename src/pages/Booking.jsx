@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useParams, useNavigate, useSearchParams } from "react-router-dom";
-import { Layout } from "@/Layout/layout.jsx";
-import { getHotelById } from "@/data/hotels.jsx";
+import { Layout } from "@/Layout/Layout.jsx";
+import { getHotelById } from "@/data/Hotels.jsx";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";

@@ -3,7 +3,7 @@ import { useSearchParams } from "react-router-dom";
 import { Layout } from "@/Layout/Layout.jsx";
 import { HotelCard } from "@/component/HotelCard";
 import { SearchWidget } from "@/component/Search";
-import { hotels, searchHotels, AMENITIES } from "@/data/hotels.jsx";
+import { hotels, searchHotels, AMENITIES } from "@/data/Hotels.jsx";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Slider } from "@/components/ui/slider";

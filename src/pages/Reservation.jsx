@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Layout } from "@/Layout/layout.jsx";
+import { Layout } from "@/Layout/Layout.jsx";
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";

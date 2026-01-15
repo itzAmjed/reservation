@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Layout } from "@/Layout/layout.jsx";
+import { Layout } from "@/Layout/Layout.jsx";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
